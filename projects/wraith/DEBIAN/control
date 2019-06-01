@@ -1,9 +1,0 @@
-Package: com.M3ASHKANANI.wraith
-Name: wraith
-Depends:
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Tweak for snapchat
-Maintainer: M3ASHKANANI
-Author: Justin Carlson
-Section: Tweaks

@@ -1,0 +1,14 @@
+Package: com.ion.wraith
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: m3ashkanani
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: /wraith.deb
+Size: 18118
+MD5sum: 48c1e84cf1292ed8e4a25fccad93a2f2
+SHA1: 9cac3bbb934078bee633064c821865f44758be8a
+SHA256: 3b14221f42e6cf76d60507bc991459ca3141d03a3ea57e9b516e3a1d69a9c93a
+Section: Tweaks
+Description: A sweet snapchat tweak!
+Author: Justin Carlson <carlsonjustin32@gmail.com>
+Name: wraith

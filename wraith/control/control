@@ -1,0 +1,16 @@
+Name: Wraith
+Package: com.ion.wraith
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A sweet snapchat tweak!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wraithDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wraithDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Justin Carlson <carlsonjustin32@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 183
+dev: carlsonjustin32
