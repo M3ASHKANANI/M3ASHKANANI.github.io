@@ -1,6 +1,6 @@
 Package: com.M3ASHKANANI.wraith
 Name: wraith
-Depends: winterboard
+Depends:
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Tweak for snapchat
