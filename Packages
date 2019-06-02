@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: m3ashkanani
 Depends: mobilesubstrate, firmware (>= 8.0)
 Filename: /wraith.deb
-Size: 19460
-MD5sum: 8f717bf58deac8ba7a299f77413a40b9
-SHA1: fcb60be0286df54303571422e3f511f2c8e47c94
-SHA256: 17f996eb8de7247e1ed85e8aacae14b3a6d91781276887fb36d07eae59795693
+Size: 18892
+MD5sum: c86c3546eaa67b16e5dee4cd2b5818af
+SHA1: 4979f9870ffcd695f31093a0d7b56af3e4189aff
+SHA256: a0028d1208b4b229f6369478fff6f90d9809323307197e9408a071eba037bcf0
 Section: Tweaks
 Description: A sweet snapchat tool
 Author: Justin Carlson <carlsonjustin32@gmail.com>
